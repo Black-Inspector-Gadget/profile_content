@@ -1,1 +1,2 @@
-# content
+# Content for profile.
+# Pictures. icons, gifs, etc.
