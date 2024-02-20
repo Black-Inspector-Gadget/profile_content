@@ -1,7 +1,7 @@
 # Content for profile.
 ## Pictures, icons, gifs, etc.
 
-### Header
+### Header GIF
 <img src="https://github.com/Black-Inspector-Gadget/content/blob/main/header.gif" />
 
 
