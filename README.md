@@ -1,4 +1,4 @@
-# Content for profile.
+# Content for my [GitHub Profile](https://github.com/Black-Inspector-Gadget).
 ## Pictures, icons, gifs, etc.
 
 ### Header GIF
